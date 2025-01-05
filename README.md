@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seasshell
+- 👋 Hi, I’m Sanjida
 - 👀 I’m interested in math and coding
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on software development
